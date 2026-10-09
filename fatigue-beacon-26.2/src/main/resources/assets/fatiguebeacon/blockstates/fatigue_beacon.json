@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fatiguebeacon:block/fatigue_beacon"
+    }
+  }
+}

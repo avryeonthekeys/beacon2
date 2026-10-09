@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fatiguebeacon:block/fatigue_beacon"
+  }
+}

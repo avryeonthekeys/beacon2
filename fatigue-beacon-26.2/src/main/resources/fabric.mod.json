@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "fatiguebeacon",
+  "version": "${version}",
+  "name": "Mining Fatigue Beacon",
+  "description": "Adds a separate full-pyramid beacon that applies Mining Fatigue IV within a 200-block spherical radius.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.fatiguebeacon.FatigueBeaconMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
